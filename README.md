@@ -1,1 +1,1 @@
-# yoga_blog
+# Yoga_Blog
